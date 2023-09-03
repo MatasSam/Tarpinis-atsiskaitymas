@@ -1,0 +1,33 @@
+nav {
+    background: #f8f9fa;
+    line-height: 40px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav button {
+    cursor: pointer;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    width: 60px;
+    margin-right: 150px;
+    margin-bottom: 7px;
+  }
+  
+  a {
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .nuoroda {
+    color: black;
+    font-weight: 525;
+    margin-left: 150px;
+  }

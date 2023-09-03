@@ -1,0 +1,134 @@
+@media (max-width: 768px){
+    nav button {
+      margin-right: 50px;
+    }
+  
+    .nuoroda {
+      margin-left: 50px;
+    }
+  
+    section.top {
+      height: 500px;
+    }
+    
+    section.top p {
+      width: 80%;
+    }
+    
+    section.top form {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    input[type="submit"]{
+      width: 300px;
+    }
+  
+    main.advantages {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    main.advantages div.box {
+      height: 200px;
+      width: 100%;
+    }
+  
+    main.container {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      height: 2400px;
+      margin-top: 80px;
+    }
+    
+    div.boxes {
+      height: 400px;
+      width: 100%;
+    }
+    
+    div.boxes h2 {
+      font-size: 30px;
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+    
+    div.boxes p {
+      font-size: 20px;
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+  
+    div.testimonials {
+      text-align: center;
+      margin-top: 70px;
+      font-size: 25px;
+    }
+  
+    main.people {
+      height: 850px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+      width: 90%;
+      margin: auto;
+    }
+    
+    main.people div {
+      width: 100%;
+    }
+  
+    main.people h3 {
+      font-size: 25px;
+    }
+    
+    main.people p {
+      font-size: 15px;
+      width: 90%;
+      text-align: center;
+    }
+    
+    main.people img {
+      height: 150px;
+      width: 150px;
+    }
+  
+    section.bottom {
+      height: 300px;
+    }
+    
+    section.bottom p {
+      font-size: 30px;
+      margin-top: 30px;
+      width: 70%;
+    }
+    
+    section.bottom form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    main.menu-bottom {
+      height: 120px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 30px;
+      width: 90%;
+    }
+    
+    main.menu-bottom a {
+      color: #1888fe;
+      padding: 5px;
+    }
+    
+    main.menu-bottom img {
+      width: 40px;
+      height: 40px;
+    }
+  }
